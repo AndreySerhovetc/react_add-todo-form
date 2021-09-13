@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css","webpack://src/Components/Todo/TodoList.scss"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,OACE,SACF,CCNA,WACE,eAAgB","file":"main.1ee96e34.chunk.css","sourcesContent":[".App {\r\n  text-align: center;\r\n}\r\n\r\n.error {\r\n  color: red;\r\n}\r\n",".list-item {\r\n  min-width: 300px;\r\n}\r\n"]}
